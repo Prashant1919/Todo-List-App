@@ -44,7 +44,7 @@ private lateinit var navController: NavController
             else {
                 navController.navigate(R.id.action_splashScreen_to_signIn)
             }
-        },5000)
+        },3000)
     }
 }
 
